@@ -3,7 +3,8 @@
 <h1 align="center">Howdy 👋, I'm M'hamed LEHBAB</h1>
 <h4 align="center">A self taught developer, Passionate about Flutter and Web.</h4>
 
-🏢 Work includes ***Flutter, React and Spring*** you can find, 👨‍💻 All of my projects are available at [My website](https://lehbabmhamed.netlify.app/) And you can reach me at 📫**mhamedlehbab@gmail.com** or message me on [LinkedIn](https://linkedin.com/in/m-hamed-l-b70185185).
+<!-- 🏢 Work includes ***Flutter, React and Spring*** you can find, -->
+You can find 👨‍💻 All of my projects are available at [My website](https://lehbabmhamed.netlify.app/) And you can reach me at 📫**mhamedlehbab@gmail.com** or message me on [LinkedIn](https://linkedin.com/in/m-hamed-l-b70185185).
 
 <h3 align="center">Languages, Frameworks and Tools:</h3>
 <br>

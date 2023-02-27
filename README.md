@@ -1,6 +1,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitgud31&show_icons=true&locale=en" alt="gitgud31" /></p> -->
 
-<h1 align="center">Howdy 👋, I'm LEHBAB M'hamed</h1>
+<h1 align="center">Howdy 👋, I'm M'hamed LEHBAB</h1>
 <h4 align="center">A self taught developer, Passionate about Flutter and Web.</h4>
 
 🏢 Work includes ***Flutter, React and Spring*** you can find, 👨‍💻 All of my projects are available at [My website](https://lehbabmhamed.netlify.app/) And you can reach me at 📫**mhamedlehbab@gmail.com**
